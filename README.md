@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=minki's%20github&fontSize=90)
 <div align="center">
   <h1>Tech Stack</h1>
   <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=000000" />&nbsp
