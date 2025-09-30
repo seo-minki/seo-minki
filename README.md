@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=minki's%20github&fontSize=90)
 <div align="center">
-  <h1>Tech Stack</h1>
+  <h2>Tech Stacks</h1>
   <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff" />&nbsp
   <img src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=ffffff"/>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff" />&nbsp
 </div>
